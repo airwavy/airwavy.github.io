@@ -19,3 +19,13 @@ body{
 	margin: 0px;
 	text-align: center;
 	color: #FFF;
+
+.test {
+	color: #FFF;
+}
+#Table_01 tr td #Table_ tr td blockquote blockquote blockquote p .test {
+	color: #FFF;
+}
+#Table_01 tr td #Table_ tr td blockquote blockquote blockquote p {
+	color: #FFF;
+}
